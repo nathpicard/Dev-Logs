@@ -3,7 +3,13 @@ notes and thoughts
 
 -download mamap as a means of projection mapping
 
-#library boxes
+# thoughts on the readings
+
+# thoughts in class
+
+# concluding thoughts
+
+# library boxes
 
 -It's securre, document drop : libertarian fantasies
 
@@ -20,3 +26,9 @@ notes and thoughts
 -persuade people to connect: attach authority, physical location, community 
 
 -re-writing the purpose of the space
+
+-how to design a digital intervention:
+
+-lightscapes
+
+-we are automatically replicating baggage: 
