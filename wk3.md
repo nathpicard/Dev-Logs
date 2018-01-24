@@ -12,7 +12,7 @@
   1. the shock that is a result of seeing a unexpected visuals
   2. it's beautifully shocking
 
--I like the idea of aesthetic as beautiful, or poetic as beautiful... but I also understand that my conception of beauty has been shaped by the world surrounding me. So maybe I do need to destroy in order to re-write what my idea of aesthetic beauty.
+-I like the idea of aesthetic as beautiful, or poetic as beautiful... but I also understand that my conception of beauty has been shaped by the world surrounding me. So maybe I do need to destroy in order to re-write my idea of aesthetic beauty.
 
 ## Thoughts in class ##
 -
