@@ -10,7 +10,7 @@ _things to know about me_
 
 -As such, I'm thinking of writing my devlogs this way for the next weeks. Each week, I will produce a devlog that's separated into these categories to track my thoughts on the the class and how it will eventually relate to my own project.
 
-## thoughts on the readings' ##
+## thoughts on the readings ##
 
 Augmented realities got me thinking about my own MRP. I want to create a physical resource for teaching Japanese Internment in classrooms, but producing such a thing would be extremely costly. Perhaps augmented reality is a way of circumventing this? Students could feel like objccts on a paper are actually 3D.
 
