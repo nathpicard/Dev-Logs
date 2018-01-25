@@ -3,6 +3,8 @@
 ## Attempts 2 Code ##
 **Markdown**
 
+**What do we have to do ?**
+-expectations for project. where do we see the problems(cracks in the system) think about some of the texts that we've read and do research into what has already been done... how could it be problematic, what excites me, concern that I'm struggling with, how the technology resonates with the story I want to tell, what do i need to find out? 10mins
 
 ## Thoughts on readings ##
 -Surprisingly short chapters. I'm much more drawn to the concept of Poetic Terrorism than Art Sabotage. I think this stems from a constant interest in creating and making over destroying. I think that I understand the desire to destroy in order to resist the reproduction of past values.
@@ -15,7 +17,20 @@
 -I like the idea of aesthetic as beautiful, or poetic as beautiful... but I also understand that my conception of beauty has been shaped by the world surrounding me. So maybe I do need to destroy in order to re-write my idea of aesthetic beauty.
 
 ## Thoughts in class ##
+-We are going to be making an Aris game... not sure how that's going to go. 
+
+-in Public history we think on a broadcast model- we aren't thinking about individuals. Should we be trying to access them as individuals?
+
+-anonymity; remove semblance of authority from who is making the
+
+-the attack on truth through the digital; 
+
+-Where do i draw the line, what does it mean for me as a historian. What is my line?
+
+-by staying in the academic sphere, we save ourselves from being criticized or being attacked for our opinions.
+
 -
 
 ## Concluding Thoughts ##
+
 -
