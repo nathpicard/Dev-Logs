@@ -13,6 +13,7 @@ Trip advisor accolades include : “brilliant” , wonderful!” And “very coo
 and “Mosaika distorts Canadian History. As a history teacher, I was appalled”
 
 **Northern Lights (2016), parliament**
+
 **CANADA150 (2017), parliament**
 
 Similarly positive responses.
@@ -38,11 +39,13 @@ As a part of Project SPACE & Wall Space Framing, Train Yards
 “The STARDUST installation is an interactive and educational experience in an alternative gallery space, a sanctuary in which you can be alone with your thoughts”
 
 ## How could it be used? ##
--In tandem with location based website, I could use projection mapping to shine light on the forgotten history of Ottawa’s original Chinatown  (between Kent and O’Connor, 2 blocks along Albert street). 
+-In tandem with location based website, I could use projection mapping to shine light on the forgotten history of Ottawa’s original Chinatown  (between Kent and O’Connor, 2 blocks along Albert street).
+
 -I like it because it’s temporary, but public in that its accessible to anyone who is walking by.
 
 ## How does it resonate with the story that I want to tell? ##
 -Projection mapping can be a physical window into the past- which is the goal of this project; to provide people a glimpse of an Ottawa that once was, and one that might subvert their idea of Ottawa’s history (in suggesting the long history of a Chinese community in Ottawa, that your average Canadian may not necessarily be aware of)
+
 -I like the idea that it’s impermanent as well, because it reflects the very businesses whose stories I am looking to share. Whose lots on Albert Street were torn down and they moved towards Somerset or different cities entirely.
 
 ## Problematic? concerns? ##
