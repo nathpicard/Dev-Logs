@@ -18,6 +18,8 @@
 
 **Art and History**
 
+-A website where I can have my own 
+
 ## Concluding Thoughts ##
 
 -
