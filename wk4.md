@@ -18,9 +18,19 @@
 
 -Use _affections_ to buy my valentines day gift
 
--Needs photos
+-needs photos
 
 -Figure out how to make the game for a place that I'm not in.
+
+-**What do I need to add?**
+
+-make both gifts
+
+-make "wink" icon
+
+-make sure it's location accessible only once it's complete
+
+-get android user to download aris and try it to make sure it works
 
 **Art and History**
 
