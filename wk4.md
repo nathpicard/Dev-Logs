@@ -1,17 +1,19 @@
 # devLog4 #
 - - - - - 
-## Oral Presentation ##
+## Oral Presentation: feedback & revisions ##
 -reach out to Denise Chong (Calgary) and the OCCSC
 
--film my project
+-film my project. This will make the impermanent slightly permanent, and will also make it an archive which I can show as a part of my "historical repertoire".
 
--Go to the archives.
+-Go to the archives and just find the information necessary. I need to have history to share, before I can focus too hard on the technology.
 
-## Thoughts in class ##
+## Thoughts in class & on other presentations##
 
 -These games can be used in museums as counter programming. This doesn't necessarily mean that you aren't working with the museum. It could mean that you're making extra special perks that visitors get to check out. 
 
 -Art sabotage isn't my cup of tea, but making something that *adds* to the story, or tells a different version of the story that people have in their head isn't sabotage. The projection mapping will identify a new space on Albert street (specifically a vertical space) without destroying what already exists there. That new space will be the canvas on which I tell my "alternate" or "hidden" history. 
+
+-Jen really likes this trees concept. City space isn't necessarily a building landscape... nature is just as much part of the city as well. 
 
 ## Projects that are going on in my head ##
 **Aris Scavenger Hunt in Chicago**
@@ -46,7 +48,7 @@ Here's the plan:
 
 -a place to upload a CV, and use as a base for my professional internet presence.
 
--**Primary goal:** use the plan that I will make for the Ottawa Chinatown project as a post for this website.
+-*Primary goal:* use the plan that I will make for the Ottawa Chinatown project as a post for this website.
 
 ## Concluding Thoughts ##
 
