@@ -7,3 +7,22 @@ The thing that I'm worried about right now is reaching out to the Chinese commun
 
 ## Other Digital Projects ##
 -I think I figured ARis out? At least... if I put all of the conversations and pins in one city, then you can view them all for the game. I have one week before valentines day, so I need to make sure it's playable on an Android phone before then. The one thing that I won't be able to control is whether the location tracking will work- so that conversations can only be opened in certain areas.
+
+## In class: How are we engaging with the digital history? ##
+-What are the questions that we're wrestling with as a class?
+
+--> How is this class digital __*history*__? Where does the history come into a present day interjection into society. 
+
+--> How does what we're doing for our personal research project connect with what we're looking at here?
+
+--> the desire to have a complete and finished thing. Is this opposite to the the idea that digital history isn't a completeable thing? : Is there a shift in what we feel the outcome should be? Should the outcome be to learn and try and fail, or should the outcome be that I've successfully completed a project that wasn't even ambitious in the first place.
+
+--> Assemblage theory: You can't separate the various interrelated artifacts and how they're all connected.
+
+      Assemblage theory provides a bottom-up framework for analyzing social complexity by emphasizing fluidity, exchangeability, and multiple functionalities
+      
+---> Space collapsing: skype space, windows that collapse through space, the projection mapping is a window through time. 
+
+---> *Digtal* as a tool, and how it is used changes based on who is using it.
+
+## Concluding Thoughts ##
