@@ -3,11 +3,11 @@
 
 **The Ottawa Archive**
 
-**Reaching Out to the community**
+**Reaching Out to the Community**
 
 ## The Digital: Brainstorming the Specifics ##
 **Projection Mapping**
 
-**The website**
+**The Website**
 
 
