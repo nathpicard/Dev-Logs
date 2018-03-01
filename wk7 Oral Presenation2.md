@@ -48,6 +48,7 @@ _What I've done_
 
 _Problems I'm already facing..._
 - How do I make the backgroun map not tiled, and how can I place pins for different locations onto that map?
+- What level of language do I want to use in the website- casual? academic? Who is my target audience? The community? people who live there now who aren't in the community?
 - Will I end up choosing the businesses with the most media, and therefore the most well known businesses
 - The workers history museum just published a freaking comic about the Lee Kung Grocery owning family, the Wongs! I'm doing something that's being done by other people! Nooooooooo
 
