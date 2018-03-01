@@ -51,5 +51,6 @@ _Problems I'm already facing..._
 - Will I end up choosing the businesses with the most media, and therefore the most well known businesses
 - The workers history museum just published a freaking comic about the Lee Kung Grocery owning family, the Wongs! I'm doing something that's being done by other people! Nooooooooo
 
+What 
 
 
