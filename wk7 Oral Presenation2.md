@@ -52,6 +52,6 @@ _Problems I'm already facing..._
 - The workers history museum just published a freaking comic about the Lee Kung Grocery owning family, the Wongs! I'm doing something that's being done by other people! Nooooooooo
 
 ## The Historiosity of it all ##
-I'm not feeling too 
+I'm not feeling too good about the history. I feel a little bit like I'm lying about the history. There's a tension between not having the materials to tell a compelling history, and using materials that aren't directly related but making the type of projection and website that could draw people in. I'm still trying to decide where I want to stand in my own presentation, but in order to have a final product for this class, I'm currently leaning towards the authenticity but not actually accurate photos.
 
 
