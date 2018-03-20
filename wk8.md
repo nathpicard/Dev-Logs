@@ -95,3 +95,8 @@ I'd also like to acknowledge that initially I was excited for this system of wee
  **primary**
  - City of Ottawa Journal
  - The Ottawa Citzen
+ 
+ ## Thoughts ##
+ I'm feeling very uncertain as I do all of this resesarch. I've been reaching out without success to members of the chinese community, and it feels strange to be an outsider trying to tell this history. If I were writing an essay to submit for this class, I know I wouldn't be having these feelings. Part of me feels like I'm putting knowledge into the public that is already there. I try to tell myself that I'm sharing it in a new way, that seeks to reach a new audience and peak interest in those who may be unfamiliar with this aspect of Ottawa's history- but then I come across difficulties of finding photos, and when I do find them, they're being contributed to websites by the descendents of these business owners who are still living in Ottawa. Again, I have doubts about whether I should be doing this project in the first place.... but I'm too far in now, and I have a grade on the line, so I feel like I have to do it and do it well. I'm not doing it well right now. I don't know how I'm going to find enough images to make an intersting montage. I don't know how I'm going to tell a story that differs from the very well done Lives of the Family website and that doesn't feel like I'm stealing from them. I don't know what my role as a digital historian or public historian is in this scenario that I find myself in. 
+ 
+ I'm going to come back to this work tomorrow, and maybe I'll have a clearer sense of the purpose of this project. But I'm currently feeling like a copy-cat and outsider. Hopefully, I'll find a way to change that.
