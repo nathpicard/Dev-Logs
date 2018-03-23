@@ -74,6 +74,12 @@ The daea fork that we used at the begining of the year was fairly simple to alte
 
 I will either have to get rid of one of these bars, or find a different use for one of them. I like the idea of using Explore Ottawa's Old Chinatown as a navigate back to the ... so I'm not entirely sure how I see myself using what is currently labeled as Atlas... maybe I'll move the Projection mapping project to that, so that they are more visible?
 
+**prob no. 5**
+
+*photos onto a website*
+
+I know that there is a simple way of doing this, but as is evident with this devlog... I haven't figured it out. Will consult with peers to find out, or google around more.
+
 
 ## What now? ##
 Panic?
