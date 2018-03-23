@@ -6,9 +6,9 @@
 
 I've sent emails to and called various members of the Chinese Canadian Association and Chinese Service Centre, without any responses. 
 
-(email)
+[alt text](http://url/to/img.png)
 
-(email)
+[alt text](http://url/to/img.png)
 
 When I called, people seemed unfamiliar with the online projects that I was referring to. Yet, there are photos accesible online that I want to use for both my website and my mapping project. How can I use these without violating the rights of the families who donated these photos in the first place.
 
