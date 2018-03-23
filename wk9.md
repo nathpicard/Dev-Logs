@@ -6,9 +6,9 @@
 
 I've sent emails to and called various members of the Chinese Canadian Association and Chinese Service Centre, without any responses. 
 
-[alt text](https://github.com/nathpicard/Dev-Logs/blob/master/Screen%20Shot%202018-03-23%20at%2010.21.23%20AM.png)
+[image](https://github.com/nathpicard/Dev-Logs/blob/master/Screen%20Shot%202018-03-23%20at%209.52.39%20AM.png)
 
-[alt text](http://url/to/img.png)
+[image](https://github.com/nathpicard/Dev-Logs/blob/master/Screen%20Shot%202018-03-23%20at%209.51.37%20AM.png)
 
 When I called, people seemed unfamiliar with the online projects that I was referring to. Yet, there are photos accesible online that I want to use for both my website and my mapping project. How can I use these without violating the rights of the families who donated these photos in the first place.
 
@@ -19,6 +19,8 @@ However, I think the rights of the community are more valuable to my project tha
 
 
 **mod no.2** CUPE's strike and access to the media lab
+
+[image] (https://github.com/nathpicard/Dev-Logs/blob/master/Screen%20Shot%202018-03-23%20at%2010.21.23%20AM.png)
 
 Expecting the strike to take less time than it has, my plan was to wait until the strike was over to use the media commons for the creation of my projection mapping movies. This is no longer feasible. Therefore, I will download a more modest video editing software to produce the short films that I plan on using as the *projection mapping* portion of my project. I'm sure that this will result in a perfectly acceptable video, however I will have fewer tools to make the videos. I will likely focus on using features such as the Burns Effect to draw the eye and create stories, which is something available on all platforms.
 
