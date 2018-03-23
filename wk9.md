@@ -2,7 +2,9 @@
 
 ## mods ##
 
-**mod no.1** rights and permissions
+**mod no.1** 
+
+*rights and permissions*
 
 I've sent emails to and called various members of the Chinese Canadian Association and Chinese Service Centre, without any responses. 
 
@@ -18,7 +20,9 @@ However, I think the rights of the community are more valuable to my project tha
 
 
 
-**mod no.2** CUPE's strike and access to the media lab
+**mod no.2** 
+
+*CUPE's strike and access to the media lab*
 
 [image](https://github.com/nathpicard/Dev-Logs/blob/master/Screen%20Shot%202018-03-23%20at%2010.21.23%20AM.png)
 
@@ -30,7 +34,7 @@ These are largely digital problems that I need to overcome this week. I have all
 
 **prob no 1.** 
 
-Map size
+*Map size*
 
 The map I've uploaded to my website, but I need to figure out how to make it a larger size so it fits with the beautiful Ottawa watercolour map behind it.
 
@@ -39,7 +43,7 @@ The map I've uploaded to my website, but I need to figure out how to make it a l
 
 **prob no.2** 
 
-Making my pins fit the right locations on the map
+*Making my pins fit the right locations on the map*
 
 I have the locations of 6 different businesses that I want to pin on the map, all of which can be found along Albert Street between O'Connor and Bank streets. This will emphasize the density and proximity of the Old Ottawa Chinatown.
 
@@ -60,9 +64,16 @@ From these 6 businesses, I have further information written up about 4 of them: 
 
 **prob no.3** 
 
-Finding out how to publish what I've written in the right part of the site and have it appear as expected.
+*Finding out how to publish what I've written in the right part of the site and have it appear as expected.*
 
 The daea fork that we used at the begining of the year was fairly simple to alter when we were working on it in class, and I assumed it would be equally simple to alter while working on it outside of class. This is not the case.
+
+**prob no.4**
+
+*I have two navbar links that both just return to the homepage*
+
+I will either have to get rid of one of these bars, or find a different use for one of them. I like the idea of using Explore Ottawa's Old Chinatown as a navigate back to the ... so I'm not entirely sure how I see myself using what is currently labeled as Atlas... maybe I'll move the Projection mapping project to that, so that they are more visible?
+
 
 ## What now? ##
 Panic?
