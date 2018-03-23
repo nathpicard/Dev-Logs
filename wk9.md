@@ -6,7 +6,7 @@
 
 I've sent emails to and called various members of the Chinese Canadian Association and Chinese Service Centre, without any responses. 
 
-[alt text](http://url/to/img.png)
+[alt text](https://github.com/nathpicard/Dev-Logs/blob/master/Screen%20Shot%202018-03-23%20at%2010.21.23%20AM.png)
 
 [alt text](http://url/to/img.png)
 
