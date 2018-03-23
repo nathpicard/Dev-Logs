@@ -32,8 +32,9 @@ These are largely digital problems that I need to overcome this week. I have all
 
 Map size
 
-The map I've uploaded to my website, but it's in a tile format. I need to figure out how to make it a larger size. Currently, fiddling with MapWarper in the hopes that I will figure it out.
+The map I've uploaded to my website, but I need to figure out how to make it a larger size so it fits with the beautiful Ottawa watercolour map behind it.
 
+*Previously:* fiddling with MapWarper aiming to figure out how to make my map no tiled, and have succeed there.
 
 
 **prob no.2** 
