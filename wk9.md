@@ -57,7 +57,14 @@ I have the locations of 6 different businesses that I want to pin on the map, al
 
 From these 6 businesses, I have further information written up about 4 of them: Lang Yick, the Oriental Club, the Canton Inn and On Hong Chinese Laundry. I chose them to represent the four videos that I will be making, for each type of business that were associated with early chinese families in Ottawa; the grocery, the restaurant and the laundry. The presence of social clubs is also significant within any established Chinese community, and thus I felt it was important to include that as well. For some businesses I have more information than for others. As I couldn't find as much personal information about certain owners and their families, I also include more general information about how those types of businesses played a role in the early Ottawa Chinese Canadian community.
 
+**prob no.3** 
+
+Finding out how to publish what I've written in the right part of the site and have it appear as expected.
+
+The daea fork that we used at the begining of the year was fairly simple to alter when we were working on it in class, and I assumed it would be equally simple to alter while working on it outside of class. This is not the case.
+
 ## What now? ##
+Panic?
 With one week left, it's about putting everything together. I need to make sure that the website loads, and that all the pins fall on the right place on the old map of Ottawa that I have found. I need to take all of the photos and clips that I've collected, write some captions and edit them together into 4 looping videos.
 
 It's a matter of putting in the time to pull off this project.
