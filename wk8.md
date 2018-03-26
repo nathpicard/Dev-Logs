@@ -33,7 +33,8 @@ I'd also like to acknowledge that initially I was excited for this system of wee
 **secondary**
  - From China to Canada: A history of the Chinese Communities
  - Chinatowns: Towns within cities in Canada
- - Chinese Canadians. Voices from a Community
+ - /Chinese Canadians. Voices from a Community
+ - - Lives of the Family: stories of fate and circumstance
  - From survival to success: the chinese in twentieth-century Ottawa
  Ottawa directory- 1961; 207 listings, 1931; 41 listings
  1891; 5 men
