@@ -34,7 +34,9 @@ I'd also like to acknowledge that initially I was excited for this system of wee
  - From China to Canada: A history of the Chinese Communities
  - Chinatowns: Towns within cities in Canada
  - /Chinese Canadians. Voices from a Community
- - - Lives of the Family: stories of fate and circumstance
+ - Lives of the Family: stories of fate and circumstance
+ -Enduring Hardship: The chinese laundry in Canada
+ -Chinatown: An illustrated history, Paul Yee
  - From survival to success: the chinese in twentieth-century Ottawa
  Ottawa directory- 1961; 207 listings, 1931; 41 listings
  1891; 5 men
@@ -89,13 +91,13 @@ I'd also like to acknowledge that initially I was excited for this system of wee
  ** descendents were getting their post-secondary degrees; working in government; technicians, clerks, national research council, dentists, engineers, etc.**
   :. Somerset chinatown not launched by original chinese families
  
+ - Chinatown, Paul Yee:
+ -1920s: 60 laundries!
+ -
  
- 
- - Lives of the Family: stories of fate and circumstance
  
  **primary**
  - City of Ottawa Journal
- - The Ottawa Citzen
  
  ## Thoughts ##
  I'm feeling very uncertain as I do all of this resesarch. I've been reaching out without success to members of the chinese community, and it feels strange to be an outsider trying to tell this history. If I were writing an essay to submit for this class, I know I wouldn't be having these feelings. Part of me feels like I'm putting knowledge into the public that is already there. I try to tell myself that I'm sharing it in a new way, that seeks to reach a new audience and peak interest in those who may be unfamiliar with this aspect of Ottawa's history- but then I come across difficulties of finding photos, and when I do find them, they're being contributed to websites by the descendents of these business owners who are still living in Ottawa. Again, I have doubts about whether I should be doing this project in the first place.... but I'm too far in now, and I have a grade on the line, so I feel like I have to do it and do it well. I'm not doing it well right now. I don't know how I'm going to find enough images to make an intersting montage. I don't know how I'm going to tell a story that differs from the very well done Lives of the Family website and that doesn't feel like I'm stealing from them. I don't know what my role as a digital historian or public historian is in this scenario that I find myself in. 
